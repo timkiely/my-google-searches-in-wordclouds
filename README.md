@@ -56,8 +56,31 @@ source("02-search-hist-eda.R")
 rmarkdown::render("google-search-analysis-markdown.Rmd")
 ```
 
+Some output:
+====================
 
+## my search volume by time of year:
 ![Hourly](/img/GoogleSearchBoxPlot-EDA.jpeg)
 
+## search density:
+![Density](/img/GoogleSearchDensity-EDA.jpeg)
+
+## hourly:
+![hourly2](/img/GoogleSearchHourly-EDA.jpeg)
+
+## seasonality: 
+![seasonality](/img/GoogleSearchSeasonal-EDA.jpeg)
+
+## by hour/weekday:
+![hour weekday](/img/GoogleSearchWeekday-EDA.jpeg)
+
+## Worldcloud for 2014
+![2014](/img/my-google-searches-2014-wordcloud.jpeg)
+
+## Worldcloud for 2015
+![2015](/img/my-google-searches-2015-wordcloud.jpeg)
+
+## Worldcloud for 2016
+![2016](/img/my-google-searches-2016-wordcloud.jpeg)
 
 
