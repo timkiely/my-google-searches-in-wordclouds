@@ -57,5 +57,7 @@ rmarkdown::render("google-search-analysis-markdown.Rmd")
 ```
 
 
+![Hourly](img/GoogleSearchHourly-EDA.jpg)
 
-![Test image](/img/GoogleSearchHourly-EDA.jpg?raw=true "GoogleSearchHourly-EDA.jpeg")
+
+
