@@ -57,7 +57,7 @@ rmarkdown::render("google-search-analysis-markdown.Rmd")
 ```
 
 
-![Hourly](/img/GoogleSearchHourly-EDA.jpg)
+![Hourly](blob/master/img/GoogleSearchBoxPlot-EDA.jpeg)
 
 
 
