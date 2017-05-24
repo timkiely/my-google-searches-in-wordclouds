@@ -12,7 +12,7 @@ Then, place the unzipped "Searches" folder into the working directory of this sc
 Setting Up
 =============
 
-I don't know of an easy way to do this programatically, but Google makes it relatively simple to download a zipped copy of your search history (and histories )
+I don't know of an easy way to do this programatically, but Google makes it relatively simple to download a zipped copy of your search history
 
 ``` r
 # flow control for setting up the Searches folder from Google History
