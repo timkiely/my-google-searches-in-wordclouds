@@ -1,13 +1,6 @@
 Exploring My Google Search History
 ================
 
--   [Exploring my Personal Google Search History](#exploring-my-personal-google-search-history)
--   [Setting Up](#setting-up)
--   [Running the scripts:](#running-the-scripts)
-
-Exploring my Personal Google Search History
-===========================================
-
 This script takes my personal Google Search history and creates a "word bubble" of my Top 100 most freuqently searched terms in 2015 and YTD 2016.
 
 For instructions on downloading your personal Google Search history, see [Google's support page on creating a personal archive](https://support.google.com/accounts/answer/3024190?hl=en)
@@ -16,7 +9,7 @@ From the above link, you will need to download the "Searches" product.
 
 Then, place the unzipped "Searches" folder into the working directory of this script. The script will then unpack the JSON-formatted data and transform it into a usable data frame, then output each year as a separate .csv file
 
-0) Setting Up
+Setting Up
 =============
 
 I don't know of an easy way to do this programatically, but Google makes it relatively simple to download a zipped copy of your search history (and histories )
