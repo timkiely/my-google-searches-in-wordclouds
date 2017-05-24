@@ -2,7 +2,7 @@ Exploring My Google Search History
 ================
 
 -   [Exploring my Personal Google Search History](#exploring-my-personal-google-search-history)
--   [0) Setting Up](#setting-up)
+-   [Setting Up](#setting-up)
 -   [Running the scripts:](#running-the-scripts)
 
 Exploring my Personal Google Search History
